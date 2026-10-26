@@ -1,0 +1,6 @@
+{
+  "name": "NexusFlow AI - SaaS Workflow & Agent Platform",
+  "description": "Enterprise AI SaaS platform orchestrating n8n, Zapier, autonomous AI agents, and multi-LLM pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
